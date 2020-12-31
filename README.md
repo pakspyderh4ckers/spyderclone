@@ -11,3 +11,5 @@ cd spyderclone
 ls
 python2 spyderclone.py
 Enjoy!
+UserName= Pak
+Password=Spyder
